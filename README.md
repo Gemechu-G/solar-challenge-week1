@@ -10,7 +10,7 @@
    python -m venv .venv
    .venv\Scripts\Activate.ps1
 
-3. Install requirements:
+3. Install requirements:git status  
    pip install -r requirements.txt
 "@ > README.md
 
