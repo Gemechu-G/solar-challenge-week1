@@ -4,7 +4,7 @@
 ## Setup
 
 1. Clone the repo:
-   git clone https://github.com/YOUR_USERNAME/solar-challenge-week1.git
+   git clone https://github.com/Gemechu-G/solar-challenge-week1.git
 
 2. Create & activate virtual environment:
    python -m venv .venv
